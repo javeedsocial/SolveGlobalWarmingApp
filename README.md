@@ -10,3 +10,5 @@ How do I make it runnable?
 How do I run it?
 
 How do I built?
+
+Lets cu to chase and solve real problems. 
